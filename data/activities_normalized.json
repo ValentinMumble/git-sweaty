@@ -14857,5 +14857,57 @@
     "start_date_local": "2026-03-25T09:20:21Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 7791.3,
+    "elevation_gain": 132.8,
+    "id": "17881674847",
+    "moving_time": 6978.0,
+    "name": "Marche \u00e0 Tours \ud83c\udfe2",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-27T12:01:18Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 10229.5,
+    "elevation_gain": 12.5,
+    "id": "17884621646",
+    "moving_time": 2250.0,
+    "name": "A/R La Cabotte \u2699\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-27T11:27:55Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 12137.3,
+    "elevation_gain": 36.2,
+    "id": "17886456610",
+    "moving_time": 3775.0,
+    "name": "La Loire \u00e0 pied \ud83c\udfc3",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T10:56:32Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 8314.9,
+    "elevation_gain": 76.2,
+    "id": "17888426169",
+    "moving_time": 1809.0,
+    "name": "Retours \ud83d\ude89",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-28T12:40:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -10286,6 +10286,42 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17862731795",
       "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 12,
+      "name": "Marche \u00e0 Tours \ud83c\udfe2",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17881674847",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 11,
+      "name": "A/R La Cabotte \u2699\ufe0f",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17884621646",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 10,
+      "name": "La Loire \u00e0 pied \ud83c\udfc3",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17886456610",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 12,
+      "name": "Retours \ud83d\ude89",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17888426169",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19872,6 +19908,24 @@
           "distance": 95712.7,
           "elevation_gain": 432.7,
           "moving_time": 12859.0
+        },
+        "2026-03-27": {
+          "activity_ids": [
+            "17884621646"
+          ],
+          "count": 1,
+          "distance": 10229.5,
+          "elevation_gain": 12.5,
+          "moving_time": 2250.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17888426169"
+          ],
+          "count": 1,
+          "distance": 8314.9,
+          "elevation_gain": 76.2,
+          "moving_time": 1809.0
         }
       },
       "Run": {
@@ -20000,6 +20054,15 @@
           "distance": 7213.6,
           "elevation_gain": 53.4,
           "moving_time": 2159.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17886456610"
+          ],
+          "count": 1,
+          "distance": 12137.3,
+          "elevation_gain": 36.2,
+          "moving_time": 3775.0
         }
       },
       "Tennis": {
@@ -20070,10 +20133,21 @@
           "elevation_gain": 342.0,
           "moving_time": 4464.0
         }
+      },
+      "Walk": {
+        "2026-03-27": {
+          "activity_ids": [
+            "17881674847"
+          ],
+          "count": 1,
+          "distance": 7791.3,
+          "elevation_gain": 132.8,
+          "moving_time": 6978.0
+        }
       }
     }
   },
-  "generated_at": "2026-03-27T15:41:07.063178+00:00",
+  "generated_at": "2026-03-28T15:20:08.052422+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/11670816",
   "repo": "ValentinMumble/git-sweaty",
